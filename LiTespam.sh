@@ -1,5 +1,3 @@
-181 lines (166 sloc)  3.98 KB
-  
 #!/system/xbin/bash
 clear
 git clone https://github.com/amsitlab/smsid-java.git
